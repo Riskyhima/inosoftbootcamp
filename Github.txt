@@ -1,0 +1,49 @@
+Github
+pass git :hasan1010*
+
+------
+Keunggulan Git/github => github didesain untuk git repository, yg memberikan visibility pada code dan gimana perubahanya
+------
+version control berbasis internet atau / online backup (sumber backup dari Git local yg dihubungkan oleh internet) 
+
+> membuat link local to remote
+1. git remote add (name) (url from github)
+git remote add original_1 https://github.com/Riskyhima/git_tutorial.git
+
+> ngecek 
+git remote atau lebih spesifik git remote -v
+
+>pushing(upload le github) file/folder nb : push hanya bisa datu "branch" saja
+>dan push ke github hanya bisa dilakukan dengan commit
+>pushing tidak bisa dilakukan pada branching, jadi ketika kita melakukan --ammend(menindih) commit/version tertentu
+>dengan commit lalu kita push ke github maka tidak bisa , jadi untuk memaksanya kita bisa menggunakan -f (force push)
+>git push original_1 master -f
+1.configurasi
+	> git config --global crdential.username "username"
+	> git config --global user.name "username"
+	> git config --global user.email "E-mail github" 
+2.push file/folder
+git push original_1(name dari link yg kita buat diatas) master(branch yg ingin kita update)
+git push original_1 master
+
+
+
+
+>shortcut
+1. git push original_1 master 
+	> git push origin master --set-upstream
+maka next jika push original_1 master cukup dengan "git push"
+
+>automaticlly / synchronisasi
+
+
+
+
+
+
+
+
+
+
+
+
