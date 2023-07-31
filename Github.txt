@@ -37,6 +37,12 @@ maka next jika push original_1 master cukup dengan "git push"
 >automaticlly / synchronisasi
 
 
+ssh
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC3JlhU0QZpzGHEs6synoucY2OlgljgIsiArqm+dAo7vUblgep9WkN4Nbk1SjNuBqiWDiNBx05DHjfnfx7EXguPafmhLN58L+63Ha00jOE7ZTLrhu5IAoHfy2oMJ/WZHjxomdDsC9TGF09avpVeGMpgDBnqQdcHmOVc8NR9xZt8ATs7Za5h4A/mNegg1MpugZ/u4gTPVnk3hQLPmYOn9kuDHeGkxK3DyQK27I1vKiKQGw5ep4uQgYe+Dhu2e1JrNFPoHGULMVp6056Bk9mXdZjesOvh4LMDwtuMFAl52GBe4t18kwkXuyG0k1OErw2rStM4hOXRXaG7mw8LoP75k+9sog6VrjNvL7zP7GcLs7Bu/uSw2gsT57WXoSXKLgTHUBNV1FUwFpov3T/reEiVZYyY78cBInL6elMR1/XOKNJW2sZxW1X+AHethgC8JToHyM539NqNK0ZgUyHzyzcenEI3rXyp3qsYUvU6rPrmOA8v5T97lp8KbB1NphYU10f4aP0= RiskyH@DESKTOP-P4PSN6I
+Materi Inosoft Git 
+setting ssh,push ke repo Github, 
+git workflow, git branch, tag in git, release
+
 
 
 
